@@ -31,6 +31,7 @@ const people = [
   { name: "Mohak Kapoor", age: 20, favSport: "Basketball" },
   { name: "Garima Kapoor", age: 35, favSport: "Soccer" },
   { name: "Sapna Kapoor", age: 48, favSport: "Cricket" },
+  { name: "Arun Kapoor", age: 54, favSport: "Tennis" },
 ];
 
 /*
